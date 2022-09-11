@@ -6,7 +6,7 @@
 Thank you!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pedroportales.pedroportales)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## 🔧 My current interest in technologies & tools
 
