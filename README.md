@@ -5,6 +5,7 @@ If you want make a donation, this is my Monero Wallet: `8BmkJPyb9Gca1BjgVyDwesYx
 <div style="display: inline_block"><br>
   
   <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
   <img alt="C" src="https://img.shields.io/badge/C-e0e0e0.svg?style=for-the-badge&logo=c&logoColor=blue"/> 
   <img alt="Python" src="https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python&logoColor=yellow"/> 
   <img alt="Lua" src="https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/> 
@@ -18,9 +19,10 @@ If you want make a donation, this is my Monero Wallet: `8BmkJPyb9Gca1BjgVyDwesYx
 </div>
 
 ##
+
 <a href="https://github.com/pedroportales/pedroportales">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroportales&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Pedro's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroportales&theme=dracula&langs_count=10&hide=vim%20script,makefile&exclude_repo=dotfiles,my-herbstluftwm-cfg,openbox,dwm" alt="Pedros's GitHub Stats" />
 </a>
 <a href="https://github.com/pedroportales/pedroportales">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroportales&langs_count=10&hide=vim%20script,makefile&exclude_repo=dotfiles,my-herbstluftwm-cfg,openbox,dwm&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Pedros's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroportales&show_icons=true&theme=dracula&line_height=27&count_private=true" alt="Pedro's GitHub Stats" />
 </a>
