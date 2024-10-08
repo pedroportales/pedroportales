@@ -95,7 +95,7 @@ Welcome to my GitHub! Where I release the code of projects and configurations of
 
 <p align="center">
     <a href="https://github.com/pedroportales/pedroportales">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroportales&layout=compact&langs_count=10&hide=vim%20script,makefile&exclude_repo=dotfiles,my-herbstluftwm-cfg,openbox,dwm&theme=nord&hide_border=true&" width = "38%" alt="Pedros's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroportales&layout=compact&langs_count=10&hide=vim%20script,makefile&exclude_repo=dotfiles,my-herbstluftwm-cfg,openbox,dwm,awesome-nord-theme&theme=nord&hide_border=true&" width = "38%" alt="Pedros's GitHub Stats" />
     </a>
 </p>
 
